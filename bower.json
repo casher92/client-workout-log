@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "description": "work out log app",
+  "main": "index.js",
+  "authors": [
+    "Craig Asher"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ElevenFiftyApprentices/Team_NET_BJC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
